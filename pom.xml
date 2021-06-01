@@ -8,17 +8,23 @@
 		<version>2.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<<<<<<< HEAD
 <<<<<<< Lesson1
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 =======
+=======
+>>>>>>> Lesson2
 	<groupId>ru.geekbrains</groupId>
 	<artifactId>shop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>shop</name>
+<<<<<<< HEAD
 >>>>>>> Практическое задание к 2 уроку
+=======
+>>>>>>> Lesson2
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -26,6 +32,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
+<<<<<<< HEAD
 <<<<<<< Lesson1
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
@@ -37,6 +44,8 @@
 		</dependency>
 	</dependencies>
 =======
+=======
+>>>>>>> Lesson2
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 		<dependency>
@@ -101,15 +110,21 @@
             <version>1.5.20</version>
         </dependency>
     </dependencies>
+<<<<<<< HEAD
 >>>>>>> Практическое задание к 2 уроку
+=======
+>>>>>>> Lesson2
 
 	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+<<<<<<< HEAD
 <<<<<<< Lesson1
 =======
+=======
+>>>>>>> Lesson2
 				<configuration>
 					<excludes>
 						<exclude>
@@ -118,7 +133,10 @@
 						</exclude>
 					</excludes>
 				</configuration>
+<<<<<<< HEAD
 >>>>>>> Практическое задание к 2 уроку
+=======
+>>>>>>> Lesson2
 			</plugin>
 		</plugins>
 	</build>
